@@ -13,7 +13,7 @@
 		"Other"
 	],
 	"activationEvents": [
-		"workspaceContains:pubspec.yaml"
+		"workspaceContains:**/pubspec.yaml"
 	],
 	"keywords": [
 		"dart",
