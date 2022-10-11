@@ -1,5 +1,5 @@
 {
-	"name": "get-snippets",
+	"name": "get-snippets-fork",
 	"displayName": "GetX Snippets",
 	"description": "An extension to accelerate the process of developing applications with flutter, aimed at everyone using the Get package.",
 	"version": "4.2.0",
